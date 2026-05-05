@@ -19,5 +19,8 @@
   },
   "devDependencies": {
     "jest": "^30.3.0"
+  },
+  "dependencies": {
+    "lint": "^1.2.2"
   }
 }
