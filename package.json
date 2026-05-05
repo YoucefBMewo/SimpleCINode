@@ -1,0 +1,23 @@
+{
+  "name": "simplecinode",
+  "version": "1.0.0",
+  "description": "simplecinode",
+  "homepage": "https://github.com/YoucefBMewo/SimpleCINode#readme",
+  "bugs": {
+    "url": "https://github.com/YoucefBMewo/SimpleCINode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoucefBMewo/SimpleCINode.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
